@@ -1,0 +1,8 @@
+C:\Users\katen\source\repos\DeleteFile\bin\Debug\DeleteFile.exe.config
+C:\Users\katen\source\repos\DeleteFile\bin\Debug\DeleteFile.exe
+C:\Users\katen\source\repos\DeleteFile\bin\Debug\DeleteFile.pdb
+C:\Users\katen\source\repos\DeleteFile\obj\Debug\DeleteFile.csproj.AssemblyReference.cache
+C:\Users\katen\source\repos\DeleteFile\obj\Debug\DeleteFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\katen\source\repos\DeleteFile\obj\Debug\DeleteFile.csproj.CoreCompileInputs.cache
+C:\Users\katen\source\repos\DeleteFile\obj\Debug\DeleteFile.exe
+C:\Users\katen\source\repos\DeleteFile\obj\Debug\DeleteFile.pdb
